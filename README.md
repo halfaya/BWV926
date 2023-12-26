@@ -7,6 +7,6 @@ MusicXML and Midi exports are also included, as well as playback
 templates for the following Orchestral Tools sample libraries:
 
 1. Berlin Strings
-2. Miroir (Violins and Violas) and Berlin Strings (Cellos and Basses)
+2. Miroire (Violins and Violas) and Berlin Strings (Cellos and Basses)
 3. Berlin Symphonic Strings
 4. Benjamin Wallfisch Strings
